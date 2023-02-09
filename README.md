@@ -1,1 +1,1 @@
-# activity-classification-masters-project
+# Activity Classification with SVM, RNN and LSTM-RNN
